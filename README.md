@@ -35,6 +35,15 @@ Rajiv Gandhi International Airport is the only airport located in hyderabad, whi
 2. By cabs, you just need to book an Uber/ OLA, from Airport to Salarjung Museum and they will drop you at Museum. It hardly takes 1 and half hours to reach muesum.
 
 
+# List of other locations around the museum.
+
+* High Court.
+* Charminar.
+* Golkonda Fort.
+* NTR Gardens.
+* Tank Bund.
+
+
 
 
 
