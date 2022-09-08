@@ -46,10 +46,12 @@ Rajiv Gandhi International Airport is the only airport located in hyderabad, whi
 ---
 # Link to AboutMe.md file  : **[Click Here to view AboutMe](AboutMe.md)**
 
+<br></br>
+
 
 * * *
 # Other important locations to visit in India.
----
+
 
 In this section we are going to discuss about the famous cities in India , the following table will gives clear information about them. I recommend these cities for evaery one to get relief from their daily works.
 
@@ -63,9 +65,39 @@ In this section we are going to discuss about the famous cities in India , the f
 |Karnataka | Hampi | 2 hours|
 |Karnataka | Mysur | 2 hours
 
+<br></br>
+
 
 # Pithy Quotes
 
 > "Hardest choices requires strongest will." -  *Thanos Mad Titan*
 
 > "It's not about place, it's about people." - *Odin Asguard*
+
+<br></br>
+
+---
+
+
+# Code Fencing SID ends with 0 :  Multiple File Input.
+ 
+> " How to select multiple files with "\<input type="file"> ? "
+<br></br>
+
+A quick-link to the article on stack overflow  :  [Stack Over Flow](https://stackoverflow.com/questions/1593225/how-to-select-multiple-files-with-input-type-file)
+<br></br>
+
+> The below is the code snippet from css-trics.com
+```html
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
+```
+> A quick-link for the snippet source -[A quick-link for the snippet source from css-trics.com](https://css-tricks.com/snippets/html/multiple-file-input/)
+
+
+
+
+
+
