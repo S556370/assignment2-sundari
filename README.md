@@ -64,5 +64,8 @@ In this section we are going to discuss about the famous cities in India , the f
 |Karnataka | Mysur | 2 hours
 
 
+# Pithy Quotes
 
-    
+> "Hardest choices requires strongest will." -  *Thanos Mad Titan*
+
+> "It's not about place, it's about people." - *Odin Asguard*
