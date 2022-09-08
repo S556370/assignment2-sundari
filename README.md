@@ -53,16 +53,6 @@ Rajiv Gandhi International Airport is the only airport located in hyderabad, whi
 
 In this section we are going to discuss about the famous cities in India , the following table will gives clear information about them. I recommend these cities for evaery one to get relief from their daily works.
 
-<!-- 1) Use a horizontal line and an appropriate heading for a new section.
-2) In this section you are going to create a table with at least 4 cities that you would
-recommend someone visit. Include a short paragraph that introduces the table.
-3) Create a table with three columns. The first column should be the name of a city.
-The second column will be a important location to visit in the city. The third column
-is the amount of time to spend visiting the important location. Remember to use
-headers.
-4) Commit and Push.
-5) Screen shot 6 on GitHub showing the table section -->
-
 
 | name of a city |  location to visit in the city| time to spend visiting the location|
 |---:|---|:---:|
